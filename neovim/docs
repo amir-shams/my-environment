@@ -1,0 +1,10 @@
+### this is my personal editor and i want to upgrade it.
+
+## first install neovim latest version -> v0.11.4
+
+then create folder in /home/$USER/.config with name nvim
+then copy this files into this folder
+
+after that you must download a custom font and copy it in /home/$USER/.local/share/fonts
+
+
